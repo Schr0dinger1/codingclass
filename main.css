@@ -1,8 +1,33 @@
-body {
-	font-size: 0.8em;
-	font-family: arial, sans-serif;
-    color: red;
+.page-navigation {
+	background-color:#3A3A3A; 
+	height: 50px;
+
 }
-strong{
-	color:black;
+
+.page-navigation ul {
+	list-style:none;
+}
+
+.page-navigation ul li {
+	padding: 0 15px;
+	line-height: 50px; 
+	float: left
+
+}
+.page-navigation ul li a {
+	color: #FF0000;
+	text-decoration:none;
+	font-weight: bold;
+	font-size: 20px;
+
+
+}
+
+.page-navigation ul li a:hover {
+	color:#0000FF ;
+	text-decoration: underline;
+}
+
+.hobbies li {
+	color:#FF0000:
 }
