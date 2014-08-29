@@ -29,5 +29,33 @@
 }
 
 .hobbies li {
-	color:#FF0000:
+	color:#FF0000;
+}
+
+.title {
+	color:#0033CC;
+}
+
+.title2{
+	color:#FF0000;
+	text-decoration: underline;
+}
+
+.links li  {
+	color:#FF3399;
+
+	
+}
+
+.links li a {
+	color:#FF3399;
+
+	
+}
+
+.links li a:hover {
+	color:#009933;
+	text-decoration: underline;
+
+	
 }
