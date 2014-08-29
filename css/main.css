@@ -25,7 +25,7 @@
 
 .page-navigation ul li a:hover {
 	color:#0000FF ;
-	text-decoration: underline;
+	font-weight:bolderr;
 }
 
 .hobbies li {
@@ -55,7 +55,8 @@
 
 .links li a:hover {
 	color:#009933;
-	text-decoration: underline;
-
-	
+	text-decoration: none;
+}
+body {
+	background-color:#3A3A3A
 }
