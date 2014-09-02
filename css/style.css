@@ -13,3 +13,15 @@ h3 {
 
 	color: #FF0000
 }
+
+.container{
+	width:740;
+	margin:auto;
+}
+
+.main-header {
+	height: 110px;
+	color:#FFFFFF;
+	background-color:#FF0000;
+
+}
