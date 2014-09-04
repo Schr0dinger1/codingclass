@@ -1,8 +1,4 @@
-body { 
-	background-color: #CCFFCC;
-	padding:40px;
 
-}
 
 h1 { 
 	color: #3399FF;
@@ -15,8 +11,9 @@ h3 {
 }
 
 .container{
-	width:740;
-	margin:auto;
+	width: 740px;
+	margin: auto;
+	background: #B2B2B2;
 }
 
 .main-header {
@@ -24,4 +21,17 @@ h3 {
 	color:#FFFFFF;
 	background-color:#FF0000;
 
+}
+
+.main-footer {
+	height: 100px;
+	color: #FFFFFF;
+	background-color: #222
+}
+
+.base {
+	padding-top: 50px;
+	color: #FFF;
+	text-align:center;
+	font-size:24px
 }
