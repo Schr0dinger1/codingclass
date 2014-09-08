@@ -1,0 +1,17 @@
+#wrap{
+	width:500px;
+}
+
+.left {
+	width:250px;
+	height:250px;
+	background-color:#0033CC;
+	float:left;
+}
+
+.right {
+	width:250px;
+	height:250px;
+	background-color:#FF9933;
+	float: right;
+}

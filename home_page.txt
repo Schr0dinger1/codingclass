@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf8" />
+		<title>Home</title>
+		<link rel="stylesheet" type="text/css" href="C:\Users\Austin\Documents\GitHub\codingclass\Assignments\No.1\CSS\main_format.css" />
+	</head>
+  	<body>
+
+	<div class="container">
+	
+	
+		<nav class="page-navigation">
+			<ul>
+
+				<li><a href="">Home</a></li>
+     
+				<li><a href="">About</a></li>
+	
+				<li><a href="">Interesting Things</a></li>
+	
+				<li><a href="">Boring things</a></li>
+
+				<li><a href="">Contacts</a></li
+		</nav>
+  	</body>
+</html>

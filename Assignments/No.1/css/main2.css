@@ -1,0 +1,25 @@
+.container{
+	width: 740px;
+	margin: auto;
+	background: #B2B2B2;
+}
+
+.main-header {
+	height: 110px;
+	color:#FFFFFF;
+	background-color:#FF0000;
+
+}
+
+.main-footer {
+	height: 100px;
+	color: #FFFFFF;
+	background-color: #222
+}
+
+.base {
+	padding-top: 50px;
+	color: #FFF;
+	text-align:center;
+	font-size:24px
+}

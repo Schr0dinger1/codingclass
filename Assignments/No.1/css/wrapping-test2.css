@@ -1,0 +1,15 @@
+#wrap{
+	width:500px;
+}
+
+.left {
+	height:250px;
+	width:250px;
+	background-color:#FF0000;
+	float:left;
+}
+
+.right {
+	background-color:#FF9933;
+	float: inherit;
+}
