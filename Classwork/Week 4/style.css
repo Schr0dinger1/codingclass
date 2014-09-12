@@ -1,0 +1,50 @@
+.container {
+	width: 960px;
+	margin:0 auto;
+	background-color: #808080;
+	border: #FF0000 dotted 5px;
+ 
+}
+
+.main-header {
+	height:100px;
+	background-color:#0000FF;
+	padding: 20px;	
+}
+
+
+
+
+.main_header .navigation {
+	width:100%;
+
+}
+
+.main_header .navigation ul {
+	list-style:none;
+
+}
+
+.main_header .navigation ul li {
+	float:left;
+	display:inline-block;
+
+}
+
+.main_header .navigation ul li a {
+	line-height:25px;
+	padding: 0 15px;
+	background-color:#00CC00;
+
+
+.main-content {
+	min-height:500px;
+
+}
+
+
+.main-footer {
+	height:50px;
+	background-color:#0000FF;
+
+}
