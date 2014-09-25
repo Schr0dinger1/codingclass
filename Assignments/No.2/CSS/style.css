@@ -1,0 +1,10 @@
+.sub-width{
+	width:1000px;
+}
+
+.content-section{
+	height:100px;
+	background-color:#FF0000;
+	width:100;
+	float:left;
+}
